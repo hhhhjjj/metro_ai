@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de8931e-b530-4304-b47c-da563d9a03f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/come_np.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/come_np.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/come_np.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="65" />
+              <selected id="86" />
             </state>
           </provider>
         </entry>
@@ -76,7 +76,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hjkdjango" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,7 +148,7 @@
       <workItem from="1557921096564" duration="2824000" />
       <workItem from="1558007128860" duration="17000" />
       <workItem from="1558139895973" duration="1289000" />
-      <workItem from="1558226676564" duration="3861000" />
+      <workItem from="1558226676564" duration="7221000" />
     </task>
     <task id="LOCAL-00001" summary="na">
       <created>1557557683058</created>
@@ -199,17 +199,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558141171318</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="na">
+      <created>1558231367200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558231367200</updated>
+    </task>
+    <task id="LOCAL-00009" summary="na">
+      <created>1558234729292</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558234729292</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18955000" />
+    <option name="totallyTimeSpent" value="22315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.024128687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,7 +234,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -229,7 +243,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info active="true" anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" side_tool="true" visible="true" weight="0.23592493" />
+      <window_info active="true" anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" side_tool="true" visible="true" weight="0.37600535" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -254,7 +268,7 @@
     <entry file="file://$PROJECT_DIR$/come_np.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="65" />
+          <selected id="86" />
         </state>
       </provider>
     </entry>
