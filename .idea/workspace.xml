@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de8931e-b530-4304-b47c-da563d9a03f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/come_np.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/come_np.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/come_np.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="59" />
+              <selected id="65" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,7 @@
       <workItem from="1557921096564" duration="2824000" />
       <workItem from="1558007128860" duration="17000" />
       <workItem from="1558139895973" duration="1289000" />
-      <workItem from="1558226676564" duration="236000" />
+      <workItem from="1558226676564" duration="3861000" />
     </task>
     <task id="LOCAL-00001" summary="na">
       <created>1557557683058</created>
@@ -203,7 +203,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15330000" />
+    <option name="totallyTimeSpent" value="18955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
@@ -254,7 +254,7 @@
     <entry file="file://$PROJECT_DIR$/come_np.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="59" />
+          <selected id="65" />
         </state>
       </provider>
     </entry>
