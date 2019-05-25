@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de8931e-b530-4304-b47c-da563d9a03f1" name="Default Changelist" comment="na">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/come_titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/come_titanic.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2de8931e-b530-4304-b47c-da563d9a03f1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +177,7 @@
       <workItem from="1558690345351" duration="1463000" />
       <workItem from="1558692074548" duration="2243000" />
       <workItem from="1558742138830" duration="3380000" />
-      <workItem from="1558757505490" duration="9102000" />
+      <workItem from="1558757505490" duration="9117000" />
     </task>
     <task id="LOCAL-00001" summary="na">
       <created>1557557683058</created>
@@ -315,22 +312,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558770080257</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="na">
+      <created>1558775776633</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558775776633</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52863000" />
+    <option name="totallyTimeSpent" value="52878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12399464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7479893" visible="true" weight="0.21104816" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7479893" weight="0.21104816" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
