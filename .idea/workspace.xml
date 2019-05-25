@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de8931e-b530-4304-b47c-da563d9a03f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/come_matplotlib.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/come_matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/come_matplotlib.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/metro_ai$metro_ai.coverage" NAME="metro_ai Coverage Results" MODIFIED="1558692086528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/metro_ai$metro_ai.coverage" NAME="metro_ai Coverage Results" MODIFIED="1558742192863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/come_matplotlib.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -48,8 +48,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2096" />
-    <option name="y" value="107" />
+    <option name="x" value="2095" />
+    <option name="y" value="106" />
     <option name="width" value="1620" />
     <option name="height" value="870" />
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1558432074743" duration="1564000" />
       <workItem from="1558606709556" duration="6688000" />
       <workItem from="1558690345351" duration="1463000" />
-      <workItem from="1558692074548" duration="1448000" />
+      <workItem from="1558692074548" duration="2243000" />
+      <workItem from="1558742138830" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="na">
       <created>1557557683058</created>
@@ -252,22 +253,29 @@
       <option name="project" value="LOCAL" />
       <updated>1558614636441</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="na">
+      <created>1558694342589</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558694342590</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39586000" />
+    <option name="totallyTimeSpent" value="41645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14142092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14343163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74932975" visible="true" weight="0.14164306" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7486595" visible="true" weight="0.14164306" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,14 +283,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.25067025" side_tool="true" visible="true" weight="0.14164306" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.25134048" side_tool="true" visible="true" weight="0.14164306" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" side_tool="true" visible="true" weight="0.02010724" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.9339934" visible="true" weight="0.30563003" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" sideWeight="0.0660066" side_tool="true" visible="true" weight="0.30563003" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
       <window_info anchor="right" id="R Packages" order="7" />
@@ -330,7 +338,7 @@
     <entry file="file://$PROJECT_DIR$/come_matplotlib.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="1" />
+          <selected id="7" />
         </state>
       </provider>
     </entry>
